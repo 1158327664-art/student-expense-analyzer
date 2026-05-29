@@ -1,0 +1,3 @@
+2026-05-29|food|12.5|lunch
+2026-05-29|transport|4.8|bus
+2026-05-30|study|25|notebook
